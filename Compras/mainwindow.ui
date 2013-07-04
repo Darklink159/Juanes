@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>357</width>
+    <height>259</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionOrden">
+   <property name="text">
+    <string>Orden</string>
+   </property>
+  </action>
+  <action name="actionFactura">
+   <property name="text">
+    <string>Factura</string>
+   </property>
+  </action>
+  <action name="actionFlete">
+   <property name="text">
+    <string>Flete</string>
+   </property>
+  </action>
+  <action name="actionG_Remision_R">
+   <property name="text">
+    <string>G. Remision R.</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

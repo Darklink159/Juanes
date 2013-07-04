@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/4382652/qt-designer-does-not-update-the-gui

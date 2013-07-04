@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\generatesearchform.o
+./release\searchform.o
+./release\lineedit.o
+./release\generado.o
+./release\moc_mainwindow.o
+./release\moc_generatesearchform.o
+./release\moc_searchform.o
+./release\moc_lineedit.o
+./release\moc_generado.o
+);

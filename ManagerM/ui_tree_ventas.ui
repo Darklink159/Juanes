@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ui_tree_ventas</class>
+ <widget class="QWidget" name="ui_tree_ventas">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>231</width>
+    <height>433</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>231</width>
+    <height>433</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QTreeWidget" name="treeWidget_ventas">
+     <column>
+      <property name="text">
+       <string>Ventas</string>
+      </property>
+     </column>
+     <item>
+      <property name="text">
+       <string>Comprobantes</string>
+      </property>
+      <item>
+       <property name="text">
+        <string>Boleta</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Factura</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Guia RR</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Notas</string>
+       </property>
+       <item>
+        <property name="text">
+         <string>Crédito</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Débito</string>
+        </property>
+       </item>
+      </item>
+     </item>
+     <item>
+      <property name="text">
+       <string>Otros</string>
+      </property>
+      <item>
+       <property name="text">
+        <string>Nota Pedido</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Ticket</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Cotización</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Proforma</string>
+       </property>
+      </item>
+     </item>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
